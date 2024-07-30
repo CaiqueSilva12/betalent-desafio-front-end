@@ -1,0 +1,28 @@
+thead {
+  background: linear-gradient(180deg, #5A84C0 0%, #594ED2 100%);
+}
+
+td {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18.75px;
+  text-align: left;
+}
+
+th {
+  font-family: "Roboto", sans-serif;
+  height: 47px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 18.75px;
+  text-align: left;
+}
+
+.tr__head {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 18.75px;
+  text-align: left;
+}

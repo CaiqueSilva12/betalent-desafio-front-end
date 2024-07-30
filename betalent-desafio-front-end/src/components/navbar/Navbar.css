@@ -1,0 +1,15 @@
+.navbar {
+  width: auto;
+  height: 60px;
+  background-color: rgba(255, 255, 255, 1);
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.navbar__image {
+  width: 44px;
+  height: 35px;
+  top: 12.08px;
+  left: 32px;
+  gap: 10px;
+  position: absolute;
+}
