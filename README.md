@@ -54,7 +54,7 @@ Tenha instaladas em sua máquina as ferramentas Git, Node.js e Yarn (ou outro ge
 1. Clone o repositório em seu computador:
 
     ```bash
-    git clone https://github.com/BeMobile/desafio-front-end.git
+    git clone git@github.com:CaiqueSilva12/betalent-desafio-front-end.git
     ```
 
 2. Acesse a pasta do projeto:
