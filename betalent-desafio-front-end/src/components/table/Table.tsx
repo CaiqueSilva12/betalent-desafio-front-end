@@ -48,7 +48,7 @@ const Table = <T extends object>({ data, columns, expandedRowIndex, expandedRowC
       >
         {rows.map((row: Row<T>, rowIndex: number) => {
           prepareRow(row);
-          const isRowExpanded = rowIndex === expandedRowIndex; // Verifique se a linha atual é a expandida
+          const isRowExpanded = rowIndex === expandedRowIndex;
 
           return (
             <React.Fragment key={row.id}>
